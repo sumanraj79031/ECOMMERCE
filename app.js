@@ -118,7 +118,7 @@ currentProductSizes.forEach((size,index)=>{
     size.style.backgroundColor="white";
     size.style.color="black";
   });
-  size.style.backgrondColor= "black";
+  size.style.backgroundColor= "black";
   size.style.color="white";
   });
 });
